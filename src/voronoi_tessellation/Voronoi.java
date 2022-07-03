@@ -15,7 +15,7 @@ import javax.swing.JFrame;
 public class Voronoi extends JFrame {
 	static double p = 3;
 	static BufferedImage I;
-	static int color[], cells = 100, size = 600;
+	static int color[], cells = 100, size = 700;
 	Seed[] seeds = new Seed[cells];;
  
 	public Voronoi() {
