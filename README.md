@@ -12,19 +12,21 @@ There are numerous other applications of Voronoi diagrams. These include network
 # Examples (Screenshots)
 ## Aviation
 In aviation, Voronoi diagrams are superimposed on plotting charts to identify the nearest airfield for in-flight diversion (see ETOPS), as an aircraft progresses through its flight plan
-https://github.com/LyshaJaufar/voronoi_tesselations/blob/master/src/images/airports.png?raw=true
+![airports](https://user-images.githubusercontent.com/63420202/177515193-14f3be8b-86ee-4765-835e-8f4cebeae21a.png)
 
 ## Fastfood
 Assume you are planning to walk to a restaurant to have lunch. There are numerous restaurants nearby. Which one should you go to (disregarding food quality and only considering convenience)? The closest restaurant, right!
 The point within a Voronoi cell is the closest restaurant for everyone living in that region(Voronoi cell)
-https://github.com/LyshaJaufar/voronoi_tesselations/blob/master/src/images/michelin-restaurants.png?raw=true
+![michelin-restaurants2](https://user-images.githubusercontent.com/63420202/177515523-5d36de8f-9ee6-4a9d-872a-b6f1cb16ec0c.png)
 
 ## Hydrology
 It is used in meteorology and engineering hydrology to find the weights for precipitation data of stations over an area (watershed). The points generating the polygons are the various station that record precipitation data. 
-https://github.com/LyshaJaufar/voronoi_tesselations/blob/master/src/images/weather-stations.png?raw=true
+![weather-stations](https://user-images.githubusercontent.com/63420202/177515380-1b26c4bc-e5c4-469b-973d-8acccb8ae7d2.png)
 
-# Meteorite Landings
-https://github.com/LyshaJaufar/voronoi_tesselations/blob/master/src/images/meteorite-landings.png?raw=true
+# Meteor
+![meteorite-landings](https://user-images.githubusercontent.com/63420202/177515201-c6691fc5-0361-44cf-a0d6-39e013d66c79.png)
+ite Landings
 
 # Earthquakes
-https://github.com/LyshaJaufar/voronoi_tesselations/blob/master/src/images/significant-earthquakes.png?raw=true
+![significant-earthquakes](https://user-images.githubusercontent.com/63420202/177515542-e6ffd455-0371-4e17-880f-9d508537aac2.png)
+
