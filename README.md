@@ -26,7 +26,6 @@ The point within a Voronoi cell is the closest restaurant for everyone living in
 # Meteor
 ![meteorite-landings](https://user-images.githubusercontent.com/63420202/177515201-c6691fc5-0361-44cf-a0d6-39e013d66c79.png)
 
-
 # Earthquakes
 ![significant-earthquakes](https://user-images.githubusercontent.com/63420202/177515542-e6ffd455-0371-4e17-880f-9d508537aac2.png)
 
