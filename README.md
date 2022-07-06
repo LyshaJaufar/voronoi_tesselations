@@ -6,8 +6,8 @@ A Voronoi tessellation is a partition of a plane into regions close to each of a
 There are numerous other applications of Voronoi diagrams. These include network analysis, computer graphics, medical diagnostics, astrophysics, hydrology, robotics and computational fluid dynamics.
 
 # Usage
-Input a csv file of data points(latitude and longitude) for objects
-Outputs an image consisting of a formation of polygons around the objects
+* Input a csv file of data points(latitude and longitude) for objects
+* Outputs an image consisting of a formation of polygons around the objects
 
 # Examples (Screenshots)
 ## Aviation
