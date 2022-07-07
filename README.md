@@ -23,7 +23,7 @@ The point within a Voronoi cell is the closest restaurant for everyone living in
 * It is used in meteorology and engineering hydrology to find the weights for precipitation data of stations over an area (watershed). The points generating the polygons are the various station that record precipitation data. 
 ![weather-stations](https://user-images.githubusercontent.com/63420202/177515380-1b26c4bc-e5c4-469b-973d-8acccb8ae7d2.png)
 
-# Meteor
+# Meteorite Landings
 ![meteorite-landings](https://user-images.githubusercontent.com/63420202/177515201-c6691fc5-0361-44cf-a0d6-39e013d66c79.png)
 
 # Earthquakes
