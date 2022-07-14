@@ -2,6 +2,9 @@
 # About
 A Voronoi tessellation is a partition of a plane into regions close to each of a given set of objects. In the simplest case, these objects are just finitely many points in the plane (called seeds, sites, or generators). For each seed there is a corresponding region, called a Voronoi cell, consisting of all points of the plane closer to that seed than to any other.
 
+# What I Learnt
+* parse CSV files in Java
+
 # Applications
 There are numerous other applications of Voronoi diagrams. These include network analysis, computer graphics, medical diagnostics, astrophysics, hydrology, robotics and computational fluid dynamics.
 
